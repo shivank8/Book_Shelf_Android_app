@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:text="@string/navigation_drawer"
         android:layout_marginTop="20dp"
-        android:layout_marginLeft="10dp"
+        android:layout_marginLeft="15dp"
         android:textSize="18sp"
         android:textColor="#ffffff"
         />

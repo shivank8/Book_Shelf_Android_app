@@ -7,4 +7,11 @@
     <string name="navigation_drawer">Navigation Drawer</string>
     <string name="open_drawer">open drawer</string>
     <string name="close_drawer">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragement</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="aboutapp_fragment">About App Fragment</string>
+    <string name="chech_internet_connection">Chech Internet Connection</string>
 </resources>
